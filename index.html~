@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type = "text/css" href="style.css">
+        <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="scripts.js"></script>
+    </head>
+    <body>
+
+        <h1>Javascript Video</h1>
+        <button type="button" class="start">start video</button>
+
+        <video autoplay</video>
+    </body>
+</html>
+
